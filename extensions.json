@@ -1,0 +1,21 @@
+{ 
+    "extensions": [
+    // useful extensions
+    "Auto Rename Tag",
+    "Bracket Pair Colorizer",
+    "C#",
+    "C# Extensions",
+    "CodeSnap",
+    "DrawIO Preview",
+    "ESLint",
+    "Live Server",
+    "Prettier - Code Formater",
+    "Remote - SSH",
+
+    // themes and icons
+    "vscode-icons",
+    "Material Icon Theme",
+    "Vitesse Theme",
+    "Dracula Official"
+    ]
+}
