@@ -30,9 +30,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "liveServer.settings.donotShowInfoMsg": true,
     "workbench.tree.indent": 15,
-    "remote.SSH.remotePlatform": {
-        "192.168.0.87": "linux"
-    },
     "security.workspace.trust.untrustedFiles": "open",
     "workbench.colorTheme": "Vitesse Dark"
 }
