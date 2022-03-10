@@ -1,7 +1,7 @@
 #### *My VS Code Settings*
 
-[.vscode/settings.json]() <br>
-[.vscode/extensions]()
+[.vscode/settings.json](https://github.com/murillo-nahas/vscode-settings/blob/main/settings.json) <br>
+[.vscode/extensions](https://github.com/murillo-nahas/vscode-settings/blob/main/extensions.json)
 
 <br>
 
