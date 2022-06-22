@@ -6,16 +6,13 @@
 <br>
 
 *Preview*
-#### Light Theme
-![code](https://user-images.githubusercontent.com/71032453/157658938-8f178799-430d-4acd-834f-1dd5f0f3cd8a.png)
+#### Theme
+![code](https://user-images.githubusercontent.com/71032453/175017175-0e5cc9de-83c0-4a31-876d-88e8c03aea04.png)
 
- 
- #### Dark Theme
- ![dark](https://user-images.githubusercontent.com/71032453/157659098-b6b35fb5-5c4e-4358-bd0d-b2f36c681be5.png)
 
 
 <br>
 
-*Theme* [Vitesse Theme](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) <br>
+*Theme* [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) <br>
 *Font-family* [JetBrains Mono](https://www.jetbrains.com/lp/mono/) <br>
-*File Icons* [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
+*File Icons* [VsCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) <br>
