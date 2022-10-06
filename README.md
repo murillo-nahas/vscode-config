@@ -7,12 +7,13 @@
 
 *Preview*
 #### Theme
-![code](https://user-images.githubusercontent.com/71032453/175017175-0e5cc9de-83c0-4a31-876d-88e8c03aea04.png)
+![code](https://user-images.githubusercontent.com/71032453/194386901-f5d22751-572e-4ca3-b663-a97d81bb9cac.png)
+
 
 
 
 <br>
 
-*Theme* [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) <br>
+*Theme* [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse) <br>
 *Font-family* [JetBrains Mono](https://www.jetbrains.com/lp/mono/) <br>
 *File Icons* [VsCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) <br>
