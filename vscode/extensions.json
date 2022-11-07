@@ -4,19 +4,20 @@
     "Angular Language Service",
     "Angular Snippets",
     "Auto Close Tag",
+    "Auto Import",
+    "Auto Rename Tag",
     "Code Runner",
     "Code Snap",
     "Discord Presence",
     "ESLint",
-    "JSON Crack",
+    "Markdown Preview",
     "Live Server",
     "Prettier ESLint",
     "Rainbow Brackets",
-    "REST Client",
     "Prettier - Code Formater",
 
     // themes and icons
-    "vscode-icons",
-    "Vitesse Theme Dark Soft"
+    "Bearded Icons",
+    "Monokai Pro (Filter Octagon)"
     ]
 }
