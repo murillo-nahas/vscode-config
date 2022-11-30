@@ -1,40 +1,41 @@
 {
-    "explorer.confirmDelete": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.minimap.enabled": false,
-    "editor.formatOnSave": true,
-    "debug.console.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
-    "editor.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
-    "editor.fontSize": 14,
-    "editor.lineHeight": 1.8,
-    "editor.fontWeight": "normal",
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "editor.fontLigatures": true,
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
-    "editor.suggestSelection": "first",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
-    "workbench.tree.indent": 15,
-    "security.workspace.trust.untrustedFiles": "open",
-    "editor.cursorWidth": 4,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.cursorBlinking": "phase",
-    "explorer.compactFolders": false,
-    "git.ignoreRebaseWarning": true,
-    "window.zoomLevel": 1,
-    "workbench.colorTheme": "Monokai Pro (Filter Octagon)"
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"editor.minimap.enabled": false,
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"debug.console.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
+	"editor.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
+	"editor.fontSize": 14,
+	"editor.lineHeight": 1.8,
+	"editor.fontWeight": "normal",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.fontLigatures": true,
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.suggestSelection": "first",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"workbench.iconTheme": "bearded-icons",
+	"workbench.tree.indent": 15,
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.cursorWidth": 4,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.cursorBlinking": "phase",
+	"explorer.compactFolders": false,
+	"git.ignoreRebaseWarning": true,
+	"window.zoomLevel": 1,
+	"workbench.colorTheme": "Gatito Theme"
 }
