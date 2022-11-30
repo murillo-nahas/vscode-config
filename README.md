@@ -4,13 +4,12 @@
 [extensions](https://github.com/murillo-nahas/vscode-settings/blob/main/vscode/extensions.json)
 
 #### Preview Theme
-![code](https://user-images.githubusercontent.com/71032453/200335149-33750c76-b504-4fe6-8d6b-009ef437172f.png)
-
+![code](https://user-images.githubusercontent.com/71032453/204920611-ef7ab5de-6f6a-4e05-829c-aa71755e99fd.png)
 
 
 
 <br>
 
-*Theme*: [Monokai Pro (Filter Octagon)](https://dev.to/kubadlo/comment/1bi2a) <br>
+*Theme*: [Gatito Theme)](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.gatito-theme) <br>
 *Font-family*: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 *File Icons*: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>
