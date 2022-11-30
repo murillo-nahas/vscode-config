@@ -10,6 +10,6 @@
 
 <br>
 
-*Theme*: [Gatito Theme)](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.gatito-theme) <br>
+*Theme*: [Gatito Theme](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.gatito-theme) <br>
 *Font-family*: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 *File Icons*: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>
