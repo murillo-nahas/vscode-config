@@ -1,15 +1,14 @@
-# *My VS Code Settings*
+# _My VS Code Settings_
 
 [settings](https://github.com/murillo-nahas/vscode-settings/blob/main/vscode/settings.json) <br>
 [extensions](https://github.com/murillo-nahas/vscode-settings/blob/main/vscode/extensions.json)
 
 #### Preview Theme
-![code](https://user-images.githubusercontent.com/71032453/204920611-ef7ab5de-6f6a-4e05-829c-aa71755e99fd.png)
 
-
+![code](https://user-images.githubusercontent.com/71032453/206233322-52fad9df-2f5b-4228-891d-003eed3daae0.png)
 
 <br>
 
-*Theme*: [Gatito Theme](https://marketplace.visualstudio.com/items?itemName=pawelgrzybek.gatito-theme) <br>
-*Font-family*: [Fira Code](https://github.com/tonsky/FiraCode) <br>
-*File Icons*: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>
+_Theme_: [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) <br>
+_Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
+_File Icons_: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>

@@ -1,5 +1,5 @@
-{ 
-    "extensions": [
+{
+  "extensions": [
     // useful extensions
     "Angular Language Service",
     "Angular Snippets",
@@ -16,10 +16,12 @@
     "Rainbow Brackets",
     "Prettier - Code Formater",
     "Gatito Theme",
-    "GitLens -- Git supercharged"
+    "GitLens -- Git supercharged",
 
     // themes and icons
     "Bearded Icons",
-    "Gatito Theme"
-    ]
+    "Panda Theme",
+    "Error Lens",
+    "Code Spell Checker"
+  ]
 }
