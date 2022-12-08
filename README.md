@@ -9,6 +9,6 @@
 
 <br>
 
-_Theme_: [Panda Theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda) <br>
+_Theme_: [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin) <br>
 _Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 _File Icons_: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>
