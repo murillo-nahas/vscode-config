@@ -5,10 +5,10 @@
 
 #### Preview Theme
 
-![code](https://user-images.githubusercontent.com/71032453/206233322-52fad9df-2f5b-4228-891d-003eed3daae0.png)
+![code](https://user-images.githubusercontent.com/71032453/207700829-9af0228e-d4d6-4add-83de-a782786465f9.png)
 
 <br>
 
-_Theme_: [Catppuccin Macchiato](https://github.com/catppuccin/catppuccin) <br>
-_Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
-_File Icons_: [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) <br>
+_Theme_: [Gruvbox Theme](https://marketplace.visualstudio.com/items?itemName=tomphilbin.gruvbox-themes) <br>
+_Font-family_: [JetBrians Mono](https://www.jetbrains.com/pt-br/lp/mono/) <br>
+_File Icons_: [Gruvbox Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme) <br>

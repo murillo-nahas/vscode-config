@@ -1,11 +1,12 @@
 {
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
+  "javascript.suggest.autoImports": true,
   "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "debug.console.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
-  "editor.fontFamily": "'Fira Code', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
+  "debug.console.fontFamily": "'JetBrains Mono', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
+  "editor.fontFamily": "'JetBrains Mono', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
   "editor.fontWeight": "normal",
@@ -13,6 +14,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
   "editor.fontLigatures": true,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -23,12 +25,16 @@
   "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "material-icon-theme.activeIconPack": "nest",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "bearded-icons",
+  "workbench.iconTheme": "gruvbox-material-icon-theme",
   "workbench.tree.indent": 15,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.cursorWidth": 4,
@@ -37,5 +43,5 @@
   "explorer.compactFolders": false,
   "git.ignoreRebaseWarning": true,
   "window.zoomLevel": 1,
-  "workbench.colorTheme": "Catppuccin Macchiato"
+  "workbench.colorTheme": "Gruvbox Dark Medium"
 }

@@ -15,13 +15,14 @@
     "Prettier ESLint",
     "Rainbow Brackets",
     "Prettier - Code Formater",
-    "Gatito Theme",
     "GitLens -- Git supercharged",
+    "Error Lens",
+    "Code Spell Checker",
+    "Conventional Commits",
+    "Prisma",
 
     // themes and icons
-    "Bearded Icons",
-    "Catppuccin Theme",
-    "Error Lens",
-    "Code Spell Checker"
+    "Gruvbox Material Icon Theme",
+    "Gruvbox Theme"
   ]
 }
