@@ -42,6 +42,13 @@
   "editor.cursorBlinking": "phase",
   "explorer.compactFolders": false,
   "git.ignoreRebaseWarning": true,
+  "totalTypeScript.hideBasicTips": true,
+  "totalTypeScript.hideAllTips": false,
+  "totalTypeScript.hiddenTips": [
+    "passing-generics-to-types",
+    "type-alias-with-generics"
+  ],
   "window.zoomLevel": 1,
-  "workbench.colorTheme": "Gruvbox Dark Medium"
+  "cSpell.userWords": ["Nahás"],
+  "workbench.colorTheme": "One Monokai"
 }
