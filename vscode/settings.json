@@ -5,8 +5,8 @@
   "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "debug.console.fontFamily": "'JetBrains Mono', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
-  "editor.fontFamily": "'JetBrains Mono', 'monospace', 'Droid Sans Fallback', 'Roboto Mono Light for Powerline'",
+  "debug.console.fontFamily": "'JetBrains Mono', 'monospace'",
+  "editor.fontFamily": "'JetBrains Mono', 'monospace'",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
   "editor.fontWeight": "normal",
@@ -46,9 +46,10 @@
   "totalTypeScript.hideAllTips": false,
   "totalTypeScript.hiddenTips": [
     "passing-generics-to-types",
-    "type-alias-with-generics"
+    "type-alias-with-generics",
+    "tuple-type"
   ],
-  "window.zoomLevel": 1,
   "cSpell.userWords": ["Nahás"],
-  "workbench.colorTheme": "One Monokai"
+  "workbench.colorTheme": "Catppuccin Frappé",
+  "window.zoomLevel": 1
 }

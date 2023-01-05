@@ -9,6 +9,6 @@
 
 <br>
 
-_Theme_: [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) <br>
+_Theme_: [Catpuccin Theme](https://github.com/catppuccin/catppuccin) <br>
 _Font-family_: [JetBrians Mono](https://www.jetbrains.com/pt-br/lp/mono/) <br>
 _File Icons_: [Gruvbox Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme) <br>
