@@ -9,6 +9,7 @@
     "Code Runner",
     "Code Snap",
     "Discord Presence",
+    "Error Lens",
     "ESLint",
     "Markdown Preview",
     "Live Server",
@@ -23,7 +24,7 @@
     "Total Typescript",
 
     // themes and icons
-    "Gruvbox Material Icon Theme",
-    "Catppuccin Theme"
+    "Icons",
+    "GitHub Theme"
   ]
 }

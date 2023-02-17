@@ -34,7 +34,7 @@
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "gruvbox-material-icon-theme",
+  "workbench.iconTheme": "icons",
   "workbench.tree.indent": 15,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.cursorWidth": 4,
@@ -47,9 +47,24 @@
   "totalTypeScript.hiddenTips": [
     "passing-generics-to-types",
     "type-alias-with-generics",
-    "tuple-type"
+    "tuple-type",
+    "in-operator-narrowing",
+    "partial-utility-type",
+    "required-utility-type",
+    "pick-utility-type",
+    "omit-utility-type",
+    "type-predicate",
+    "generic-slots-in-functions",
+    "interface-with-generics",
+    "keyof",
+    "mapped-type",
+    "conditional-type",
+    "infer"
   ],
   "cSpell.userWords": ["Nahás"],
-  "workbench.colorTheme": "Catppuccin Frappé",
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "editor.unicodeHighlight.allowedLocales": {
+    "pt-BR": true
+  },
+  "workbench.colorTheme": "GitHub Dark"
 }
