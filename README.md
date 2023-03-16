@@ -5,7 +5,7 @@
 
 #### Preview Theme
 
-![code](https://user-images.githubusercontent.com/71032453/209588442-79489a5f-ef0d-4553-8742-9b0d1add9006.png)
+![code](https://user-images.githubusercontent.com/71032453/225618677-592cec14-cb42-4a00-a9df-5c216f67ccdc.png)
 
 <br>
 
