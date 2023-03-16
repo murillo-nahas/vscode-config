@@ -34,7 +34,7 @@
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "icons",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.indent": 15,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.cursorWidth": 4,
@@ -66,5 +66,7 @@
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
   },
-  "workbench.colorTheme": "GitHub Dark"
+  "workbench.colorTheme": "One Dark Pro",
+  "oneDarkPro.editorTheme": "Panda",
+  "liveServer.settings.donotVerifyTags": true
 }

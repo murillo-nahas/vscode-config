@@ -9,6 +9,6 @@
 
 <br>
 
-_Theme_: [Catpuccin Theme](https://github.com/catppuccin/catppuccin) <br>
-_Font-family_: [JetBrians Mono](https://www.jetbrains.com/pt-br/lp/mono/) <br>
-_File Icons_: [Gruvbox Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme) <br>
+_Theme_: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <br>
+_Font-family_: [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) <br>
+_File Icons_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
