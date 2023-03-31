@@ -22,9 +22,10 @@
     "Conventional Commits",
     "Prisma",
     "Total Typescript",
+    "Tailwind CSS IntelliSense",
 
     // themes and icons
     "Material Icon Theme",
-    "One Dark Pro"
+    "Catppuccin Latte"
   ]
 }
