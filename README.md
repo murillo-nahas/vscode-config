@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: [Catppuccin Latte](https://github.com/catppuccin/catppuccin) <br>
+_Theme_: [Poimandres](https://github.com/drcmda/poimandres-theme) <br>
 _Font-family_: [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/) <br>
 _File Icons_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
