@@ -62,11 +62,11 @@
     "infer"
   ],
   "cSpell.userWords": ["Nahás"],
-  "window.zoomLevel": 1,
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
   },
-  "workbench.colorTheme": "poimandres-storm",
+  "workbench.colorTheme": "Rosé Pine Moon",
   "oneDarkPro.editorTheme": "Panda",
-  "liveServer.settings.donotVerifyTags": true
+  "liveServer.settings.donotVerifyTags": true,
+  "window.zoomLevel": 1
 }
