@@ -6,7 +6,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "debug.console.fontFamily": "'JetBrains Mono', 'monospace'",
-  "editor.fontFamily": "'JetBrains Mono', 'monospace'",
+  "editor.fontFamily": "'Fira Code', 'monospace'",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
   "editor.fontWeight": "normal",
@@ -65,7 +65,7 @@
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
   },
-  "workbench.colorTheme": "Rosé Pine Moon",
+  "workbench.colorTheme": "Pink Fresh",
   "oneDarkPro.editorTheme": "Panda",
   "liveServer.settings.donotVerifyTags": true,
   "window.zoomLevel": 1
