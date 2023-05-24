@@ -5,7 +5,7 @@
   "editor.minimap.enabled": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "debug.console.fontFamily": "'JetBrains Mono', 'monospace'",
+  "debug.console.fontFamily": "'Fira Code', 'monospace'",
   "editor.fontFamily": "'Fira Code', 'monospace'",
   "editor.fontSize": 14,
   "editor.lineHeight": 1.8,
@@ -65,8 +65,16 @@
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
   },
-  "workbench.colorTheme": "Pink Fresh",
+  "workbench.colorTheme": "One Dark Pro",
   "oneDarkPro.editorTheme": "Panda",
   "liveServer.settings.donotVerifyTags": true,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "discord.detailsIdling": "🔍 Searching in the archives...",
+  "discord.detailsEditing": "📄 File: {file_name} - {file_size}",
+  "discord.largeImageIdling": "☕ Code & Coffee",
+  "discord.detailsDebugging": "🧪 Debugging {file_name}",
+  "discord.lowerDetailsDebugging": "📌 In: {git_branch}",
+  "discord.lowerDetailsEditing": "📁 Project: {workspace}",
+  "discord.lowerDetailsIdling": "🕡 Time to Coffee",
+  "discord.lowerDetailsNoWorkspaceFound": "{file_size}"
 }

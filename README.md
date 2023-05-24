@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: [Pink Fresh](https://vscodethemes.com/e/andrs-g.pink-fresh/pink-fresh) <br>
+_Theme_: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <br>
 _Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 _File Icons_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>

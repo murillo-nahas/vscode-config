@@ -1,6 +1,6 @@
 {
   "extensions": [
-    // useful extensions
+    // Useful extensions
     "Angular Language Service",
     "Angular Snippets",
     "Auto Close Tag",
@@ -23,9 +23,15 @@
     "Prisma",
     "Total Typescript",
     "Tailwind CSS IntelliSense",
+    "vscode-styled-components",
+    "WSL",
+    "Ionic",
+    "EditorConfig for VS Code",
+    "Docker",
+    "Dev Containers",
 
-    // themes and icons
+    // Themes
     "Material Icon Theme",
-    "Pink Fresh"
+    "One Dark Pro"
   ]
 }
