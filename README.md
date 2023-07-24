@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <br>
+_Theme_: [Catppuccin Theme](https://catppuccin-website.vercel.app/) <br>
 _Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 _File Icons_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
