@@ -1,37 +1,34 @@
 {
   "extensions": [
-    // Useful extensions
+    ".NET Runtime Install Tool",
     "Angular Language Service",
-    "Angular Snippets",
+    "Angular Snippets (Version 16)",
     "Auto Close Tag",
     "Auto Import",
     "Auto Rename Tag",
+    "C#",
+    "C# Dev Kit",
     "Code Runner",
     "Code Snap",
+    "Dev Containers",
     "Discord Presence",
+    "Docker",
+    "EditorConfig for VS Code",
     "Error Lens",
     "ESLint",
+    "GitLens -- Git supercharged",
+    "IntelliCode for C# Dev Kit",
+    "Ionic",
     "Markdown Preview",
     "Live Server",
+    "Prettier - Code Formater",
     "Prettier ESLint",
     "Rainbow Brackets",
-    "Prettier - Code Formater",
-    "GitLens -- Git supercharged",
     "Error Lens",
-    "Code Spell Checker",
-    "Conventional Commits",
     "Prisma",
-    "Total Typescript",
     "Tailwind CSS IntelliSense",
-    "vscode-styled-components",
-    "WSL",
-    "Ionic",
-    "EditorConfig for VS Code",
-    "Docker",
-    "Dev Containers",
-
-    // Themes
-    "Material Icon Theme",
-    "Catppuccin Macchiato"
+    "Default Dark Theme",
+    "vscode-icons-mac",
+    "vscode-styled-components"
   ]
 }

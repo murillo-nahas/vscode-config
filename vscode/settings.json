@@ -3,7 +3,6 @@
   "explorer.confirmDragAndDrop": false,
   "javascript.suggest.autoImports": true,
   "editor.minimap.enabled": false,
-  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "debug.console.fontFamily": "'Fira Code', 'monospace'",
   "editor.fontFamily": "'Fira Code', 'monospace'",
@@ -34,7 +33,7 @@
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons-mac",
   "workbench.tree.indent": 15,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.cursorWidth": 4,
@@ -65,6 +64,7 @@
     "pt-BR": true
   },
   "liveServer.settings.donotVerifyTags": true,
-  "window.zoomLevel": 1,
-  "workbench.colorTheme": "Catppuccin Macchiato"
+  "editor.formatOnSave": true,
+  "vsicons.projectDetection.disableDetect": true,
+  "window.zoomLevel": 1
 }

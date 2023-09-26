@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: [Catppuccin Theme](https://catppuccin-website.vercel.app/) <br>
+_Theme_: Default Dark<br>
 _Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
-_File Icons_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
+_File Icons_: [vscode-icons-mac](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-icons-mac) <br>
