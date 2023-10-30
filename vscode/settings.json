@@ -33,7 +33,7 @@
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.iconTheme": "vscode-icons-mac",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.tree.indent": 15,
   "security.workspace.trust.untrustedFiles": "open",
   "editor.cursorWidth": 4,
@@ -41,30 +41,12 @@
   "editor.cursorBlinking": "phase",
   "explorer.compactFolders": false,
   "git.ignoreRebaseWarning": true,
-  "totalTypeScript.hideBasicTips": true,
-  "totalTypeScript.hideAllTips": false,
-  "totalTypeScript.hiddenTips": [
-    "passing-generics-to-types",
-    "type-alias-with-generics",
-    "tuple-type",
-    "in-operator-narrowing",
-    "partial-utility-type",
-    "required-utility-type",
-    "pick-utility-type",
-    "omit-utility-type",
-    "type-predicate",
-    "generic-slots-in-functions",
-    "interface-with-generics",
-    "keyof",
-    "mapped-type",
-    "conditional-type",
-    "infer"
-  ],
   "editor.unicodeHighlight.allowedLocales": {
     "pt-BR": true
   },
   "liveServer.settings.donotVerifyTags": true,
   "editor.formatOnSave": true,
-  "vsicons.projectDetection.disableDetect": true,
+  "RainbowBrackets.depreciation-notice": false,
+  "workbench.colorTheme": "Sonokai",
   "window.zoomLevel": 1
 }
