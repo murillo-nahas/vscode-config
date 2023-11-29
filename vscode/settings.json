@@ -47,6 +47,6 @@
   "liveServer.settings.donotVerifyTags": true,
   "editor.formatOnSave": true,
   "RainbowBrackets.depreciation-notice": false,
-  "workbench.colorTheme": "Sonokai",
+  "workbench.colorTheme": "Atom One Dark",
   "window.zoomLevel": 1
 }

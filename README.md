@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: Sonokai<br>
+_Theme_: One Dark Pro<br>
 _Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
 _Icon Theme_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
