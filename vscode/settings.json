@@ -1,4 +1,12 @@
 {
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*",
+    "tailwind.config.js": "tailwind.config*, postcss.config*",
+    ".env.local": ".env*",
+    ".env": ".env*"
+  },
+  "css.lint.unknownAtRules": "ignore",
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
   "javascript.suggest.autoImports": true,
@@ -29,7 +37,7 @@
   },
   "material-icon-theme.activeIconPack": "nest",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "editor.suggestSelection": "first",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -47,6 +55,6 @@
   "liveServer.settings.donotVerifyTags": true,
   "editor.formatOnSave": true,
   "RainbowBrackets.depreciation-notice": false,
-  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorTheme": "Dracula",
   "window.zoomLevel": 1
 }
