@@ -5,6 +5,6 @@
 
 <br>
 
-_Theme_: Dracula Officialo<br>
-_Font-family_: [Fira Code](https://github.com/tonsky/FiraCode) <br>
-_Icon Theme_: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) <br>
+_Theme_: Gruvbox Theme<br>
+_Font-family_: [JetBrains Mono](https://www.jetbrains.com/) <br>
+_Icon Theme_: [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) <br>

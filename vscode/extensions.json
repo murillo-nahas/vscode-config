@@ -1,27 +1,26 @@
 {
   "extensions": [
+    "Angular Language Service",
+    "Angular Snippets",
     "Auto Close Tag",
     "Auto Import",
     "Auto Rename Tag",
-    "Code Runner",
     "CodeSnap",
     "Dev Containers",
     "Discord Presence",
     "Docker",
-    "Dracula Official",
     "EditorConfig for VS Code",
-    "Error Lens",
     "ESLint",
-    "Go",
-    "Live Server",
-    "Markdown Preview Enhanced",
-    "Material Icon Theme",
+    "GitHub Copilot",
+    "GitHub Copilot Chat",
+    "GitLens -- Git supercharged",
+    "GruvBox",
+    "Ionic",
+    "npm Intellisense",
     "Prettier - Code formatter",
     "Prettier ESLint",
     "Prisma",
-    "Rainbow Brackets",
-    "Tailwind CSS IntelliSense",
-    "vscode-styled-components",
-    "WSL"
+    "Symbols",
+    "Tailwind CSS IntelliSense"
   ]
 }
