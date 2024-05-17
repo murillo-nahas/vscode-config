@@ -1,4 +1,6 @@
-# _My VS Code Settings_
+# _My Visual Studio Code Config_
+
+This repository is just a place to put some of my Visual Studio Code configs (extensions and settings).
 
 [settings](https://github.com/murillo-nahas/vscode-settings/blob/main/vscode/settings.json) <br>
 [extensions](https://github.com/murillo-nahas/vscode-settings/blob/main/vscode/extensions.json)
